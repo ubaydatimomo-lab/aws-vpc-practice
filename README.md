@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # AWS VPC Infrastructure & Custom Web Server Project
 
 A hands-on AWS networking project demonstrating the creation of a custom Virtual Private Cloud (VPC), public and private subnet architecture, routing controls, and automated web server deployment.
@@ -36,4 +35,3 @@ The infrastructure for this project was built from scratch in AWS:
 * Verified successful HTTP response over Port 80.
 * Verified SSH connectivity via public key authentication.
 * Resources safely destroyed post-testing to maintain zero cloud costs.
-EOF
